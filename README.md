@@ -8,7 +8,9 @@ The only file you'll need here is `moderncolors.css`. Just add the contents to y
 You can see demo for the colors at https://verachell.github.io/modern-background-colors-for-the-web/ 
 
 ### Typical use case
-```<div class="color-dustygreen">
+```
+<div class="color-dustygreen">
 <h3>Heading</h3>
 <p>Paragraph content</p>
-</div>```
+</div>
+```
