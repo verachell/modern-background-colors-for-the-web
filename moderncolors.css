@@ -1,0 +1,33 @@
+/* Simply these to your existing stylesheet */
+/* Greens */
+.color-upbeatmint, .color-hover-upbeatmint:hover {color:#000!important; background-color:#8BF78A!important}
+.color-dustygreen, .color-hover-dustygreen:hover {color:#FFF!important; background-color:#5E9E7D!important}
+.color-palemint, .color-hover-palemint:hover {color:#000!important; background-color:#BBEDC1!important}
+.color-graygreen, .color-hover-graygreen:hover {color:#000!important; background-color:#91B5AD!important}
+.color-dustyteal, .color-hover-dustyteal:hover {color:#000!important; background-color:#4FAFA2!important}
+
+/* Blues */
+.color-babyblue, .color-hover-babyblue:hover {color:#000!important; background-color:#ACD9FD!important}
+.color-pensiveaqua, .color-hover-pensiveaqua:hover {color:#000!important; background-color:#68CBD4!important}
+.color-duskydenim, .color-hover-duskydenim:hover {color:#FFF!important; background-color:#545874!important}
+.color-cleverblue, .color-hover-cleverblue:hover {color:#000!important; background-color:#52AED2!important}
+.color-palesea, .color-hover-palesea:hover {color:#000!important; background-color:#A5D6D3!important}
+
+/* Yellows and Browns */
+.color-warmdesert, .color-hover-warmdesert:hover {color:#000!important; background-color:#F8B862!important}
+.color-warmbrown, .color-hover-warmbrown:hover {color:#FFF!important; background-color:#97553C!important}
+.color-mesa, .color-hover-mesa:hover {color:#000!important; background-color:#F2953F!important}
+.color-bestbutter, .color-hover-bestbutter:hover {color:#000!important; background-color:#F8F472!important}
+.color-warmbeige, .color-hover-warmbeige:hover {color:#000!important; background-color:#EBBFA1!important}
+
+/* Reds and oranges */
+.color-coralbrick, .color-hover-coralbrick:hover {color:#FFF!important; background-color:#CA7465!important}
+.color-redpink, .color-hover-redpink:hover {color:#FFF!important; background-color:#F13B4D!important}
+.color-orangebrick, .color-hover-orangebrick:hover {color:#FFF!important; background-color:#C95529!important}
+
+/* Purples */
+.color-happyplum, .color-hover-happyplum:hover {color:#FFF!important; background-color:#832D4F!important}
+.color-palepurple, .color-hover-palepurple:hover {color:#000!important; background-color:#EBCFF7!important}
+.color-softpurple, .color-hover-softpurple:hover {color:#000!important; background-color:#BAAACC!important}
+.color-duskypurple, .color-hover-duskypurple:hover {color:#FFF!important; background-color:#766D96!important}
+
